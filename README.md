@@ -1,4 +1,4 @@
-*Boas vindas ao meu perfil* 🖤d
+*Boas vindas ao meu perfil* 🖤
 Meu nome é Laura Martins 
 -Estou estudando na Alura
 -Estou me desenvolvendona linguagem javaScript
